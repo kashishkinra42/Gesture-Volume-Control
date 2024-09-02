@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="images/output.gif" />
+  <img alt="output" src="output.gif" />
  </div>
 
 > This Project uses OpenCV and MediaPipe to Control system volume 
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ***
 ### MEDIAPIPE
 <div align="center">
-  <img alt="mediapipeLogo" src="images/mediapipe.png" />
+  <img alt="mediapipeLogo" src="mediapipe.png" />
 </div>
 
 > MediaPipe offers open source cross-platform, customizable ML solutions for live and streaming media.
@@ -53,8 +53,8 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 Source: [MediaPipe Hands Solutions](https://google.github.io/mediapipe/solutions/hands#python-solution-api)
 
 <div align="center">
-    <img alt="mediapipeLogo" src="images/hand_landmarks_docs.png" height="200 x    " />
-    <img alt="mediapipeLogo" src="images/htm.jpg" height="360 x" weight ="640 x" />
+    <img alt="mediapipeLogo" src="hand_landmarks_docs.png" height="200 x    " />
+    <img alt="mediapipeLogo" src="htm.jpg" height="360 x" weight ="640 x" />
     
 </div>
 
